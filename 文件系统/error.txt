@@ -1,0 +1,4 @@
+567ne-ipv4-2.0___mkdir /tmp/ver2.0/
+  3___vline-ipv4-2.0___network interface feth14 no switchport
+  1___vline-ipv6-2.0___mkdir /tmp/ver2.0/
+  4___vline-ipv6-2.0___network virtual-line show
